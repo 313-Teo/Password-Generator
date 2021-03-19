@@ -43,5 +43,6 @@ int main() {
     printf("\nPASSWORD: \n");
     printf("\n %s \n", Password);
     
+    system("pause");
     return 0;
     }
